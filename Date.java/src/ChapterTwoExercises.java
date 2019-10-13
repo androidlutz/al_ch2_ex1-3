@@ -20,10 +20,14 @@ public class ChapterTwoExercises {
 		
 		int date = 9; 
 		int year = 2019; 
-		System.out.print("Wednesday "); 
+		String day = "Wednesday";
+		String month = "October";		
+		System.out.print(day );
+		System.out.print(" ");
 		System.out.print(date);
 		System.out.print(" ");
-		System.out.print("October ");	
+		System.out.print(month);
+		System.out.print(" ");
 		System.out.println(year); 
 
 		
